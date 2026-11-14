@@ -1,0 +1,12 @@
+transaction_id,date,product_name,category,quantity,unit_price,customer_email
+TXN1001,2026-10-01,  laptop pro 15  ,Electronics,2,1250.50,ali.yilmaz@example.com
+TXN1002,2026-10-01,Wireless Mouse,electronics,-1,25.00,ayse.demir@example.com
+TXN1003,2026/10/02,Mechanical Keyboard,Accessories,3,abc,mehmet.kaya@example.com
+TXN1004,2026-10-02,,Accessories,1,45.00,fatma.celik@example.com
+TXN1005,2026-10-03,USB-C Hub,Electronics,5,30.00,can.ozturk@example.com
+TXN1005,2026-10-03,USB-C Hub,Electronics,5,30.00,can.ozturk@example.com
+TXN1006,invalid_date,27 Inch Monitor,Electronics,2,320.00,zeynep.arslan@example.com
+TXN1007,2026-10-04,Desk Lamp,Home Office,4,18.50,emre.sahin-invalidemail.com
+TXN1008,2026-10-05,ergonomic chair,  Furniture ,1,299.99,selin.yildiz@example.com
+TXN1009,2026-10-05,Webcam HD,Electronics,,75.00,burak.aydin@example.com
+TXN1010,2026-10-06,Noise Cancelling Headphones,Audio,2,199.90,deniz.koc@example.com

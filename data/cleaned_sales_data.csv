@@ -1,0 +1,5 @@
+transaction_id,date,product_name,category,quantity,unit_price,total_amount,customer_email
+TXN1001,2026-10-01,Laptop Pro 15,Electronics,2,1250.5,2501.0,ali.yilmaz@example.com
+TXN1005,2026-10-03,Usb-C Hub,Electronics,5,30.0,150.0,can.ozturk@example.com
+TXN1008,2026-10-05,Ergonomic Chair,Furniture,1,299.99,299.99,selin.yildiz@example.com
+TXN1010,2026-10-06,Noise Cancelling Headphones,Audio,2,199.9,399.8,deniz.koc@example.com

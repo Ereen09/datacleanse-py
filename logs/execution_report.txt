@@ -1,0 +1,10 @@
+==================================================
+       DATACLEANSE-PY EXECUTION REPORT            
+==================================================
+Çalışma Zamanı       : 2026-11-14 12:03:26
+Toplam Okunan Satır  : 11
+Temizlenen Satır     : 4
+Karantinaya Alınan   : 7
+Veri Kalite Oranı    : %36.36
+Toplam Geçerli Ciro  : $3,350.79
+==================================================
